@@ -41,6 +41,8 @@ class Application {
             currentSources  : [],
             actionId        : 1
         };
+
+        console.log('Application initialised. Use \'JivoyKameny.start()\' to start console version.');
     }
 
     actions () {
